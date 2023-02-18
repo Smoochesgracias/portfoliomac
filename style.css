@@ -1,0 +1,51 @@
+body {
+    background-color: lightgrey;
+    font-family: sans-serif;
+ 
+}
+
+#main {
+    display: flex;
+    border-radius: 0 0 50px 50px ;
+}
+
+
+
+#content {
+    background-color:#fff;
+    border-radius: 0 0 50px 50px ;
+}
+
+
+
+
+h2 {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #627FFF;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: #000;
+}
+
+h1 span {
+    color: #627FFF;
+}
+
+button {
+    background-color: #E3E4FF;
+    padding: 7px;
+    color: #627FFF;
+
+}
+
+img {
+    border-radius: 0 0 0 50px;
+
+}
+
+
+
